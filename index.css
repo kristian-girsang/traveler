@@ -459,7 +459,7 @@
   justify-content: center;
 }
 .home-header {
-  color: rgb(255, 255, 0);
+  color: rgb(255, 255, 255);
   font-size: 90px;
   font-style: normal;
   text-align: center;
@@ -473,7 +473,7 @@
   max-width: 600px;
   text-align: center;
   font-family: Karla;
-  line-height: 27px;
+  line-height: 27px
 }
 .home-border {
   width: 100%;
